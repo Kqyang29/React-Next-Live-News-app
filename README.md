@@ -20,6 +20,11 @@ Features:
   - Navigate different Pages base on Nav Categories
   - Article Pages
 
+Bug:
+  - warn - You have enabled experimental feature (appDir) in next.config.js.
+  - Hydration failed because the initial UI does not match what was rendered on the server.
+  - 
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
