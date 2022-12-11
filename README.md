@@ -4,14 +4,19 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](
 
 Techs:
   - TypeScript
-  - StepZen - make GraphQL become easier
+  - StepZen 
+     - make GraphQL become easier
+     - https://dashboard.stepzen.com/account
   - Tailwind
   - Light/Dark Mode
   - GraphQL
   - Dynamic Data & Static Data
   - NextJs
   - React
-  - API - MediaStack website https://mediastack.com/documentation
+  - API 
+     - MediaStack website https://mediastack.com/documentation
+     - "http://api.mediastack.com/v1/news?access_key=Access_key"
+  
  
 Features:
   - Switch Light/Dark Mode for the page
