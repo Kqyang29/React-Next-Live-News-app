@@ -20,10 +20,9 @@ Features:
   - Navigate different Pages base on Nav Categories
   - Article Pages
 
-Bug:
+Bugs (Cannot Deploy but can be use in localhost):
   - warn - You have enabled experimental feature (appDir) in next.config.js.
   - Hydration failed because the initial UI does not match what was rendered on the server.
-  - 
 
 ## Deploy your own
 
